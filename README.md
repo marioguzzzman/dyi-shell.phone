@@ -6,7 +6,7 @@ Part of **[She Tells, Sea Shells](https://shetells.stream/)**, an art project ab
 
 ![The Shellphone](images/hero_image_shellphone.png)
 
-> **Status: work in progress.** The electronics (the custom audio board) are designed and documented here, and the 3D-printable shell is included. The Raspberry Pi software lives in a separate repository (linked below), and the step-by-step assembly guide with photos is being added.
+> **Status: work in progress.** The electronics (the custom audio board) are designed and documented here, and the 3D-printable shell is included. Step-by-step assembly guide with photos is being added.
 
 ---
 
@@ -62,8 +62,6 @@ The audio board connects to the Pi's audio pins like this:
 
 ## Build your own
 
-*(This grows as the remaining pieces are added. Steps marked 🚧 aren't documented yet.)*
-
 1. **Get the parts** — see the [Bill of Materials](hardware/bom.md).
 2. **Make the audio board** — open the KiCad project in [`hardware/pcb/`](hardware/pcb/), export the Gerber files, and send them to any PCB fab (e.g. JLCPCB, PCBWay).
 3. **Print the shell** — print the model in [`enclosure/`](enclosure/).
@@ -74,9 +72,7 @@ The audio board connects to the Pi's audio pins like this:
 
 ## Software
 
-The Raspberry Pi software (connecting to WiFi and playing the stream) lives in its own repository, **not** in this one:
-
-🚧 **[link coming soon]**
+The Raspberry Pi software (connecting to WiFi and playing the stream) lives in its own repository: 🚧 **[link coming soon]**
 
 ---
 
@@ -86,20 +82,14 @@ Made by:
 
 - **Helin Ulaş** — [helinulas.info](https://helinulas.info/)
 - **Rita Eperjesi** — [rita.cloud](https://rita.cloud/)
-- **Mario Guzmán** — [mario-guzman.com](https://www.mario-guzman.com/)
+- **Mario Guzman** — [mario-guzman.com](https://www.mario-guzman.com/)
 - **Christian Kokott** — [kokott.art](https://kokott.art/)
 
 Developed as part of the **S+T+ARTS *Aquamotion*** artist residency (funded by the European Union), in partnership with **Rio Neiva**.
 
 🌐 [shetells.stream](https://shetells.stream/) · 🔊 [Live stream](https://shetells.stream/stream.html) · 📚 [Living Archive](https://shetells.stream/living-archive.html)
 
-<!-- 🚧 TODO: EU-funded residencies usually require an exact acknowledgment line + logo.
-     Add the required wording here. -->
+<!-- 🚧 TODO: EU-funded acknowledgment line + logo. -->
 
----
 
-## License
 
-The **code and hardware design** in this repository are released under the [MIT License](LICENSE) — free to use, modify, and share.
-
-> **Note:** you may later want a Creative Commons license (e.g. CC BY-SA) for the 3D shell model and photos, which is more common for design and media than MIT. Ask if you'd like this set up.
