@@ -1,4 +1,4 @@
-# 🐚 DIY Shellphone
+# 🐚 DIY Shell Phone
 
 This repository is the open-source reference for the *DYI Shell Phone*, so anyone can build their own, part of **[She Tells, Sea Shells](https://shetells.stream/)**, an artistic research project, developing both an artwork, an installation of the Shetells artwork, and a toolkit. 
 
