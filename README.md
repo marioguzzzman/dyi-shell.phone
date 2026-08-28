@@ -85,7 +85,7 @@ Made by:
 - **Mario Guzman** — [mario-guzman.com](https://www.mario-guzman.com/)
 - **Christian Kokott** — [kokott.art](https://kokott.art/)
 
-Developed as part of the **S+T+ARTS *Aquamotion*** artist residency (funded by the European Union), in partnership with **Rio Neiva**.
+Developed as part of the S+T+ARTS Aquamotion artist residency ( co- funded by the European Union), residency hosted by Rio Neiva.
 
 🌐 [shetells.stream](https://shetells.stream/) · 🔊 [Live stream](https://shetells.stream/stream.html) · 📚 [Living Archive](https://shetells.stream/living-archive.html)
 
