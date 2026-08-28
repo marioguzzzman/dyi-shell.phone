@@ -1,9 +1,9 @@
 # 🐚 DIY Shellphone
 
-*The project emerges from the simple, almost childlike gesture of holding a shell to the ear, hearing the ocean’s presence. This toolkit is conceived as a means for the waters of Esposende to exchange with their inhabitants, enabling acts of observation, remembrance, and speculation about the futures of water bodies. Through this, a playful voice is extended to the non-human presences and aquatic landscapes of the ecosystem.*
+This repository is the open-source reference for the *DYI Shell Phone*, so anyone can build their own, part of **[She Tells, Sea Shells](https://shetells.stream/)**, an artistic research project, developing both an artwork, an installation of the Shetells artwork, and a toolkit. 
 
+The project emerges from the simple, almost childlike gesture of holding a shell to the ear, hearing the ocean’s presence. This toolkit is conceived as a means for the waters of Esposende to exchange with their inhabitants, enabling acts of observation, remembrance, and speculation about the futures of water bodies. Through this, a playful voice is extended to the non-human presences and aquatic landscapes of the ecosystem.
 
-Part of **[She Tells, Sea Shells](https://shetells.stream/)**, an artistic research project, developing both an artwork, an installation of the Shetells artwork - and a toolkit - the DIY Shell Phone. This repository is the open-source hardware for the *Shell Phone*, so anyone can build their own.
 
 ![The Shellphone](images/hero_image_shellphone.png)
 
